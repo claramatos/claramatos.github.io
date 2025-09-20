@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+    
+    <link rel="stylesheet" type="text/css" href="/theme/css/style.css" />
+
+    <!-- Meta tags -->
+    <meta name="description" content="{% block description %}{{ SITEDESCRIPTION or '' }}{% endblock %}">
+    <meta name="author" content="{{ AUTHOR }}">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% block og_title %}{{ SITENAME }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ SITEDESCRIPTION or '' }}{% endblock %}">
+    
+    <!-- Favicon -->
+    {% if FAVICON %}
+    <link rel="icon" href="{{ SITEURL }}/{{ FAVICON }}">
+    {% endif %}
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Epunda+Slab:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1 class="site-title">
+                <a href="{{ SITEURL }}/">{{ SITENAME }}</a>
+            </h1>
+            {% if SITESUBTITLE %}
+            <p class="site-subtitle">{{ SITESUBTITLE }}</p>
+            {% endif %}
+            {% if SITEDESCRIPTION %}
+            <p class="site-description">{{ SITEDESCRIPTION }}</p>
+            {% endif %}
+            
+            <nav>
+                <ul>
+                    <li><a href="/" {% if output_file == 'index.html' %}class="active" {% endif %}>About me</a></li>
+                    <li><a href="/talks" {% if output_file == 'talks/index.html' %}class="active" {% endif %}>Talks & Media</a></li>
+                    <li><a target="_blank" href="/cv.pdf">Resume</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                {% if SOCIAL %}
+                <div class="footer-links">
+                    {% for name, link in SOCIAL %}
+                    <a href="{{ link }}" target="_blank" rel="noopener">{{ name.title() }}</a>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

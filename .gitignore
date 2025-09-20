@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Pelican output
+output/
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+
+# Node modules (if any)
+node_modules/
