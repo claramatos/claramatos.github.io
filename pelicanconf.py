@@ -51,6 +51,3 @@ STATIC_PATHS = [
 EXTRA_PATH_METADATA = {
     "pdfs/cv.pdf": {"path": "cv.pdf"},
 }
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
