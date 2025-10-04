@@ -19,7 +19,7 @@ Some of my (and my team’s) contributions so far, in reverse chronological orde
 - Creating the AI Care Coordinator, which resolves incoming member support tickets across email, chat, and SMS
 - Growing the Applied AI team from 3 to 20+ team members, leading 3 sub-teams
 - Co-organizing and presenting at the [Sword AI Summit](https://aisummit.swordhealth.com/) 2024,  with ~700 attendees (pulled together in under two months 😅)
-- Co-inventor of 10+ [patents](https://patents.google.com/?inventor=Ana+Clara+FERREIRA+MATOS)
+- Co-inventing 10+ [patents](https://patents.google.com/?inventor=Ana+Clara+FERREIRA+MATOS)
 - Building human motion tracking and analysis models that have already powered 7M+ AI Care Sessions
 - …and other random things you’d expect (and not expect) in a fast-growing startup 🚀
 
