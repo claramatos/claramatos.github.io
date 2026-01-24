@@ -4,7 +4,10 @@ Date: 2025-09-01
 Modified: 2024-09-09
 
 ## TBD
-[Lisbon AI](https://lisbonai.xyz/) | November 2025 | `talk`
+[Data Makers Fest](https://www.datamakersfest.com//) | May 2026 | Video | `talk`
+
+## Lessons from building with evals in healthcare at scale
+[Lisbon AI](https://lisbonai.xyz/) | November 2025 | Video | `talk`
 
 ## Do mundo académico até à Startup
 May 2025 | [Audio](https://open.spotify.com/episode/6ofq3AOR4k7rW5gzCWuSzz) |  `podcast`

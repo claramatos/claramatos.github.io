@@ -11,7 +11,7 @@ When I joined Sword Health, the entire company could fit into a single office ro
 
 Some of my (and my team’s) contributions so far, in reverse chronological order, include:
 
-- Co-organizing [Sword AI Summit](https://aisummit.swordhealth.com/) 2025 - happening November 15th (if you want to attend register [here](https://my.weezevent.com/sword-ai-summit-2025)).
+- Co-organizing [Sword AI Summit](https://aisummit.swordhealth.com/) 2025.
 - Post-training (SFT/RLHF/RLAIF) of LLMs on anonymized proprietary health data, optimized to maximize clinical outcomes.
 - Building Gondola, a human feedback interface powering evaluation cycles.
 - Designing and launched the 10+ AI features behind the AI Feed, Sword’s core care-management system that supports clinical decision-making, engagement, and administrative workflows, supporting scale without compromising quality of care
