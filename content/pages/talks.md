@@ -4,6 +4,9 @@ Date: 2025-09-01
 Modified: 2024-09-09
 
 ## TBD
+[QCon London](https://qconlondon.com/) | March 2026 | Video | `talk`
+
+## TBD
 [Data Makers Fest](https://www.datamakersfest.com//) | May 2026 | Video | `talk`
 
 ## Lessons from building with evals in healthcare at scale
@@ -13,7 +16,7 @@ Modified: 2024-09-09
 May 2025 | [Audio](https://open.spotify.com/episode/6ofq3AOR4k7rW5gzCWuSzz) |  `podcast`
 
 ## [Lessons Learned From Shipping AI-Powered Healthcare Products](https://qconlondon.com/presentation/apr2025/lessons-learned-shipping-ai-powered-healthcare-products)
-[QCon London](https://qconlondon.com/) | April 2025 | Video | `talk`
+[QCon London 2025](https://qconlondon.com/) | April 2025 | Video | `talk`
 
 ## Lessons Learned From Shipping AI-Powered Healthcare Products
 [Sword AI Summit](https://aisummit.swordhealth.com/) | November 2024 | `talk`
