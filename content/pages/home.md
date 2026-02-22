@@ -27,6 +27,6 @@ Although building machine learning products in healthcare at scale is cool nothi
 
 I studied Biomedical Engineering at the Faculty of Engineering, University of Porto ([FEUP](https://www.up.pt/feup/pt/)). For my [master’s thesis](https://repositorio-aberto.up.pt/bitstream/10216/80368/2/36447.pdf), I developed a computer vision model for human motion tracking, well before off-the-shelf models became a commodity.
 
-When I’m not working you can find me traveling, reading, hiking, planning DIY projects that might not get started (or finished), exploring [new restaurants](https://maps.app.goo.gl/BM6Dx78KcuCcsZjz6) or saving my feet from the bites of my 6-month-old kitten, Flecha.
+When I’m not working you can find me traveling, reading, hiking, planning DIY projects that might not get started (or finished), exploring [new restaurants](https://maps.app.goo.gl/BM6Dx78KcuCcsZjz6) or saving my feet from the bites of my cat, Flecha.
 
 📬 Feel free to reach me at [anaclaraferreiramatos@gmail.com]([mailto:anaclarferreiraamatos@gmail.com](mailto:anaclaramatos@gmail.com)).
