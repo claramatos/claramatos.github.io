@@ -12,8 +12,8 @@ When I joined Sword Health, the entire company could fit into a single office ro
 Some of my (and my team’s) contributions so far, in reverse chronological order, include:
 
 - Building [Chapter 2 of Phoenix](https://www.youtube.com/watch?v=gSC8L3aiUZY), a proactive, continuous, deeply personal AI care companion available 24/7, built around natural conversation, long-term clinical memory, and clinician oversight.
-- Creating [Arbor](https://swordhealth.com/newsroom/arbor-healthcare-conversation-flows-framework), a framework for reliable navigation of critical healthcare conversation flows.
-- Co-organizing [Sword AI Summit](https://aisummit.swordhealth.com/) 2025.
+- Creating [Arbor](https://swordhealth.com/newsroom/arbor-healthcare-conversation-flows-framework), a framework for reliable navigation of critical healthcare conversation flows (read the technical report [here](https://arxiv.org/abs/2602.14643)).
+- Organizing [Sword AI Summit](https://aisummit.swordhealth.com/) 2025.
 - Post-training (SFT/RLHF/RLAIF) of LLMs on health data reviewed by clinicians, optimized to maximize clinical outcomes.
 - Building Gondola, a human feedback interface powering continuous evaluation cycles.
 - Designing and launching 10+ AI features behind the AI Feed, Sword's core care-management system supporting clinical decision-making, engagement, and administrative workflows at scale.

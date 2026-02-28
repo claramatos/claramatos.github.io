@@ -24,6 +24,7 @@ SOCIAL = (
     ('LinkedIn', 'https://www.linkedin.com/in/claramatos/'),
     ('X', 'https://x.com/clarafrmatos'),
     ('Email', 'mailto:anaclaraferreiramatos@gmail.com'),
+    ('Google Scholar', 'https://scholar.google.com/citations?user=XqBI_X0AAAAJ&hl=en'),
 )
 
 # URL structure (creates clean URLs)
