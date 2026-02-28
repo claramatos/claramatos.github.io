@@ -23,7 +23,7 @@ SOCIAL = (
     ('GitHub', 'https://github.com/claramatos'),
     ('LinkedIn', 'https://www.linkedin.com/in/claramatos/'),
     ('X', 'https://x.com/clarafrmatos'),
-    ('Email', 'mailto:anaclaraferreiramats@gmail.com'),
+    ('Email', 'mailto:anaclaraferreiramatos@gmail.com'),
 )
 
 # URL structure (creates clean URLs)
