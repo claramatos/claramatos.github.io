@@ -20,10 +20,10 @@ AUTHOR_FEED_RSS = None
 
 # Social links (optional)
 SOCIAL = (
-    ('GitHub', 'https://github.com/claramatos'),
     ('LinkedIn', 'https://www.linkedin.com/in/claramatos/'),
     ('X', 'https://x.com/clarafrmatos'),
     ('Email', 'mailto:anaclaraferreiramatos@gmail.com'),
+    ('GitHub', 'https://github.com/claramatos'),
     ('Google Scholar', 'https://scholar.google.com/citations?user=XqBI_X0AAAAJ&hl=en'),
 )
 
