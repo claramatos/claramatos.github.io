@@ -57,7 +57,7 @@ regenerate:
 	"$(PELICAN)" -r "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 
 serve:
-	"$(PELICAN)" -l "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
+	"$(PELICAN)" -lr "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 
 serve-global:
 	"$(PELICAN)" -l "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS) -b $(SERVER)
@@ -76,4 +76,3 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github
-
