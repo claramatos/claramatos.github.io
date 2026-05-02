@@ -29,7 +29,7 @@ Modified: 2026-03-01
 
 ### Open-Source
 
-- [Sep 2025] Baichuan-M2: Scaling Medical Capability with Large Verifier System | [paper](https://arxiv.org/abs/2509.02208) | [mode](https://huggingface.co/collections/baichuan-inc/baichuan-m2)
+- [Sep 2025] Baichuan-M2: Scaling Medical Capability with Large Verifier System | [paper](https://arxiv.org/abs/2509.02208) | [model](https://huggingface.co/collections/baichuan-inc/baichuan-m2)
 - [Jul 2024] BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains | [paper](https://arxiv.org/abs/2402.10373)
 - [Aug 2023] Clinical Camel - An open-source expert-level medical language model with dialogue-based knowledge encoding | [paper](https://arxiv.org/abs/2305.12031)
 - [Oct 2022] BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining | [paper](https://arxiv.org/abs/2210.10341) | [code](https://github.com/microsoft/BioGPT)

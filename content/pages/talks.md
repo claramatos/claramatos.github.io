@@ -1,13 +1,19 @@
 Title: Talks & Media
 Slug: talks
-Date: 2025-09-01
-Modified: 2024-09-09
+Date: 2024-09-09
+Modified: 2026-05-02
 
 ## TBD
-[Data Makers Fest](https://www.datamakersfest.com//) | May 2026 | Video | `talk`
+[Applied AI Conf](hhttps://conference.techeurope.io/) | May 2026 | Video | `talk`
 
-## TBD
+## 2026: What's working, What's PoC'ing and What's broken
+[Data Makers Fest](https://www.datamakersfest.com/) | May 2026 | Video | `q&a`
+
+## Beyond Benchmarks: How Evaluations Ensure Safety at Scale in LLM Applications
 [QCon London](https://qconlondon.com/) | March 2026 | Video | `talk`
+
+## Critical Future Tech
+November 2025 | [Audio](https://criticalfuture.tech/posts/issue-20-clara-matos-sword-health/) |  `podcast`
 
 ## Lessons from building with evals in healthcare at scale
 [Lisbon AI](https://lisbonai.xyz/) | November 2025 | [Video](https://www.youtube.com/watch?v=95bsrQmOOI8) | `talk`
